@@ -1,0 +1,30 @@
+#heading_div
+{
+    font-family: 'Poppins', sans-serif;
+    font-size:x-large;
+    word-spacing: 0.2cm;
+}
+hr {
+    width: 50%;
+    height: 10px;
+    background-color: red;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-width: 2px;
+    border-color: red;
+    }
+    .test_image_and_result1,.test_image_and_result2,.test_image_and_result3,.test_image_and_result4,.test_image_and_result5,.test_image_and_result6,.test_image_and_result7,.test_image_and_result8,.test_image_and_result9{
+        margin-top: 15px;
+        background-color: aquamarine;
+        border-radius: 10px;
+        box-shadow: 1px 1px 25px mediumblue;
+        width:99%;
+        margin-bottom: 15px;
+    }
+    #IMP
+    {
+        font-family: 'Oswald', sans-serif;
+        font-size: x-large;
+    }
